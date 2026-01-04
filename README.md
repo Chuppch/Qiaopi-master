@@ -1,5 +1,6 @@
 <p align="center">
-	<img alt="logo" src="https://raw.githubusercontent.com/trashwbin/Qiaopi/refs/heads/master/init_qiaopi/images/logo.png">
+	<!-- <img alt="logo" src="https://raw.githubusercontent.com/trashwbin/Qiaopi/refs/heads/master/init_qiaopi/images/logo.png"> -->
+	<img alt="logo" src="dcos/image/主页面照片.png" width="80%" style="border-radius: 15px;">
 </p>
 <h4 align="center">跨越四海，侨缘线牵——侨缘信使，让世界没有距离。</h4>
 <p align="center">
@@ -91,17 +92,3 @@
 自定义JWT密钥即可，32字符以上，用于用户登录后的令牌生成
 
 自定义AES密钥即可，32字符，用于答题功能的题目加密
-
-## 未完待续
-
-- [ ] 业务耦合度过高，各种引用复杂、混乱
-
-- [ ] 代码冗余，应提取重复代码
-
-- [ ] 使用大量内存用于缓存字体、背景，虽提高了图片生成速度，但内存占用过高
-
-- [ ] 用户库存效验不完善
-
-- [ ] 部分功能响应速度较慢
-
-- [ ] 核心功能少
