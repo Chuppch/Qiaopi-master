@@ -1,6 +1,6 @@
 <p align="center">
 	<!-- <img alt="logo" src="https://raw.githubusercontent.com/trashwbin/Qiaopi/refs/heads/master/init_qiaopi/images/logo.png"> -->
-	<img alt="logo" src="dcos/image/主页面照片.png" width="80%" style="border-radius: 14px;">
+	<img alt="logo" src="dcos/image/主页面照片.png" width="80%" style="border-radius: 15px;">
 </p>
 <h4 align="center">跨越四海，侨缘线牵——侨缘信使，让世界没有距离。</h4>
 <p align="center">
